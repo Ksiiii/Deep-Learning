@@ -1,0 +1,2 @@
+安装d2l出现问题，请将该压缩包的d2l解压到你的环境安装包位置，目录如下：
+.....\anaconda3\envs\环境名称\Lib\site-packages
